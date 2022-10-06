@@ -10,8 +10,7 @@ Please cite our paper when you use our model and code. For more details about th
 
 [Plain Text]
 -------------
-    Gaozhong Tang, Bo Li, Hong-Ning Dai, Xi Zheng, SPRNN: A spatial–temporal recurrent neural network for crowd flow prediction, Information Sciences,
-Volume 614, 2022, Pages 19-34, ISSN 0020-0255.
+    Gaozhong Tang, Bo Li, Hong-Ning Dai, Xi Zheng, SPRNN: A spatial–temporal recurrent neural network for crowd flow prediction, Information Sciences, Volume 614, 2022, Pages 19-34, ISSN 0020-0255.
 
 [BibTex]
 -------------
