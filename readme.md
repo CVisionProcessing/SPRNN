@@ -6,7 +6,7 @@ Crowd flow prediction：The urban development inevitably invokes the overcrowded
 <img src="https://github.com/CVisionProcessing/SPRNN/blob/main/overview.png" width="800px" height="618">
 
 # Cite
-Please cite our paper when you use our model and code. For more details about this paper, please refer to our paper "SPRNN: A Spatial-temporal Recurrent Neural Network for Crowd Flow Prediction" at https://www.sciencedirect.com/science/article/pii/S0020025522011057. Anyone clicking on this link: https://authors.elsevier.com/a/1fsr84ZQE83kn, before November 24, 2022 will be taken directly to our article on ScienceDirect. 
+Please cite our paper when you use our model and code. For more details about this paper, please refer to our paper "SPRNN: A Spatial-temporal Recurrent Neural Network for Crowd Flow Prediction" at https://www.sciencedirect.com/science/article/pii/S0020025522011057. 
 
 [Plain Text]
 -------------
