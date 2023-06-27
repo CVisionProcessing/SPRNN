@@ -8,7 +8,7 @@ import glob
 from sklearn.metrics import mean_squared_error,mean_absolute_error
 import time
 from tqdm import tqdm
-from model import EGRNN
+from model import SPRNN
 from utils import SeqDataset,criterion,Measure
 import argparse
 os.environ['CUDA_VISIBLE_DEVICES'] = "0"
